@@ -1,4 +1,8 @@
-# This file should be placed into data/init.
+
+# Automatically generated, do not edit!
+
+# Source: addons:dir:User/Tilesets/MLC/DFHack/TWBT/user_tilesets_mlc_dfhack_twbt.tset.twbt
+
 
 [TILESET:MLC 16x16 - Overrides.png:MLC 16x16 - Overrides.png:ex1] 
 
@@ -137,8 +141,7 @@
 
 # Space (3 tiles)
 
-# Tracks (three cheers for templates!)
-
+# Tracks
 [OVERRIDE:208:T:ConstructedFloorTrackN:ex1:64]
 [OVERRIDE:208:T:FeatureFloorTrackN:ex1:64]
 [OVERRIDE:208:T:FrozenFloorTrackN:ex1:64]
@@ -348,3 +351,4 @@
 [OVERRIDE:30:T:LavaRampTrackNSEW:ex1:90]
 [OVERRIDE:30:T:MineralRampTrackNSEW:ex1:90]
 [OVERRIDE:30:T:StoneRampTrackNSEW:ex1:90]
+

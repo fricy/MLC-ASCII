@@ -70,8 +70,6 @@ Linux/OS X users may also use PRINT_MODE:TEXT for primitive ncurses output.
 	 PRINT_MODE:TEXT
 	 PRINT_MODE:FRAME_BUFFER
 	 PRINT_MODE:PARTIAL:0
-	 PRINT_MODE:TWBT
-	 PRINT_MODE:TWBT_LEGACY
 [SINGLE_BUFFER:NO]
 
 Switches truetype on whenever the vertical tile size is this many pixels or larger.  You may also use YES/NO to force it on/off.  Turning it off may provide a minor speed boost (using font small enough that it doesn't activate won't).
